@@ -3,4 +3,5 @@
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::4B95FDEC-B434-4824-BFC4-4F39DC88D704::net5.0::jenkinsDemoTests.Tests&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

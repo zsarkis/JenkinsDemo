@@ -4,14 +4,14 @@
     "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemoTests/JenkinsDemoTests.csproj": {}
   },
   "projects": {
-    "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/JenkinsDemo.csproj": {
+    "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/JenkinsDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/JenkinsDemo.csproj",
+        "projectUniqueName": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/JenkinsDemo.csproj",
         "projectName": "JenkinsDemo",
-        "projectPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/JenkinsDemo.csproj",
+        "projectPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/JenkinsDemo.csproj",
         "packagesPath": "/Users/zachsarkis/.nuget/packages/",
-        "outputPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/obj/",
+        "outputPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zachsarkis/.nuget/NuGet/NuGet.Config"
@@ -113,8 +113,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/JenkinsDemo.csproj": {
-                "projectPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/JenkinsDemo.csproj"
+              "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/JenkinsDemo.csproj": {
+                "projectPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/JenkinsDemo.csproj"
               }
             }
           }

@@ -5096,7 +5096,7 @@
     "JenkinsDemo/1.0.0": {
       "type": "project",
       "path": "../jenkinsDemo/JenkinsDemo.csproj",
-      "msbuildProject": "../jenkinsDemo/JenkinsDemo.csproj"
+      "msbuildProject": "../JenkinsDemo/JenkinsDemo.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5133,8 +5133,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/JenkinsDemo.csproj": {
-              "projectPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/JenkinsDemo.csproj"
+            "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/JenkinsDemo.csproj": {
+              "projectPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/JenkinsDemo.csproj"
             }
           }
         }

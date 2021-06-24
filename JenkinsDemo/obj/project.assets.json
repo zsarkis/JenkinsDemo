@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/JenkinsDemo.csproj",
+      "projectUniqueName": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/JenkinsDemo.csproj",
       "projectName": "JenkinsDemo",
-      "projectPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/JenkinsDemo.csproj",
+      "projectPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/JenkinsDemo.csproj",
       "packagesPath": "/Users/zachsarkis/.nuget/packages/",
-      "outputPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/obj/",
+      "outputPath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zachsarkis/.nuget/NuGet/NuGet.Config"
