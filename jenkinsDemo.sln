@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsDemo", "jenkinsDemo\JenkinsDemo.csproj", "{C23FF4D2-8A8F-49FF-8717-C6C0D0973B0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsDemo", "JenkinsDemo\JenkinsDemo.csproj", "{C23FF4D2-8A8F-49FF-8717-C6C0D0973B0B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsDemoTests", "JenkinsDemoTests\JenkinsDemoTests.csproj", "{4B95FDEC-B434-4824-BFC4-4F39DC88D704}"
 EndProject
