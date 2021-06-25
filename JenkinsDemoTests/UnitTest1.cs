@@ -44,9 +44,8 @@ namespace jenkinsDemoTests
 
             List<Player> result = _controller.GetPlayers().ToList();
             
-            //test
             //_ballDontLieManagerMock.Verify(m => m.GetPlayers(), Times.Once);
-            Assert.That(result.First().first_name == player.first_name);
+            Assert.That(result.First().first_name == player.last_name);
             Assert.AreNotEqual(result.First().last_name,string.Empty);
         }
     }
