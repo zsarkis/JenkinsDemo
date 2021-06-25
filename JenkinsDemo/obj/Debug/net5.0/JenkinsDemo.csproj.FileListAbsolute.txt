@@ -37,3 +37,6 @@
 /Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/obj/Debug/net5.0/ref/JenkinsDemo.dll
 /Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/obj/Debug/net5.0/JenkinsDemo.pdb
 /Users/zachsarkis/Documents/Repos/JenkinsDemo/jenkinsDemo/obj/Debug/net5.0/JenkinsDemo.genruntimeconfig.cache
+/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/bin/Debug/net5.0/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
+/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemo/bin/Debug/net5.0/Spekt.TestLogger.dll
