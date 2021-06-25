@@ -4,12 +4,12 @@ pipeline {
     agent any
     
     stages{
-	    stage ('Checkout') {
-	        steps{
-	            git url: 'https://github.com/zsarkis/JenkinsDemo.git', branch: 'main'
-	        }
-        }
-	    stage ('Build') {
+	    //stage ('Checkout') {
+	    //    steps{
+	    //        git url: 'https://github.com/zsarkis/JenkinsDemo.git'
+	    //    }
+      //  }
+	    stage ('Build') { 
  			// Shell build step
  			steps{
                 sh """ 
