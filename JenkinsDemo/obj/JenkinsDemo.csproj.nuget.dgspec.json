@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[12.0.3, )"
             },
+            "NunitXml.TestLogger": {
+              "target": "Package",
+              "version": "[3.0.107, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[106.11.8-alpha.0.11, )"

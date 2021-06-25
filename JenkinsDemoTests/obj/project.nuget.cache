@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KWGDkPIxLoE7BrGsVnZieDE1sT1jNomrrHyp5bglkVa6441TUV5Oas0aqJCiXvy9dnWF4t/n2wp91Z9OikAC3A==",
+  "dgSpecHash": "1aRmN5UgXFg1ToIKj9EPmIyx8/ax3safyWX8KPGbgTysY/MCtBU5X4L2NRCzlbfSdxuWVyn7sbUN+aSmRBTb5w==",
   "success": true,
   "projectFilePath": "/Users/zachsarkis/Documents/Repos/JenkinsDemo/JenkinsDemoTests/JenkinsDemoTests.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "/Users/zachsarkis/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
     "/Users/zachsarkis/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512",
     "/Users/zachsarkis/.nuget/packages/nunit3testadapter/3.16.1/nunit3testadapter.3.16.1.nupkg.sha512",
+    "/Users/zachsarkis/.nuget/packages/nunitxml.testlogger/3.0.107/nunitxml.testlogger.3.0.107.nupkg.sha512",
     "/Users/zachsarkis/.nuget/packages/restsharp/106.11.8-alpha.0.11/restsharp.106.11.8-alpha.0.11.nupkg.sha512",
     "/Users/zachsarkis/.nuget/packages/restsharp.serializers.newtonsoftjson/106.11.7/restsharp.serializers.newtonsoftjson.106.11.7.nupkg.sha512",
     "/Users/zachsarkis/.nuget/packages/runtime.native.system/4.3.0/runtime.native.system.4.3.0.nupkg.sha512",
