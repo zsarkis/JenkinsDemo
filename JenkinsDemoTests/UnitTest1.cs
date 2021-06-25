@@ -46,7 +46,7 @@ namespace jenkinsDemoTests
 
             //_ballDontLieManagerMock.Verify(m => m.GetPlayers(), Times.Once);
             Assert.That(result.First().first_name == player.first_name);
-            Assert.AreNotEqual(result.First().last_name,string.Empty);
+            Assert.AreNotEqual(result.First().last_name,"Zach");
         }
     }
 }
